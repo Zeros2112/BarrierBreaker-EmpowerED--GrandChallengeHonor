@@ -1,0 +1,1 @@
+user id,rating count,rating ave,Course-Difficulty,Business-And-Management,Design,Environmental-Science,Arts-And-Humanities,Computer-Science,Data-Science,Math-And-Logic,Language-Learning,Health,Social-Science,Electrical-And-Mechanical-Engineering,Digital-Marketing,Physics-And-Astronomy

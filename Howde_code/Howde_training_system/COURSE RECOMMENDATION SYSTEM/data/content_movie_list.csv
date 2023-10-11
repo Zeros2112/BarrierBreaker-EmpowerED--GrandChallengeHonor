@@ -1,0 +1,848 @@
+movieId,title,genres
+4054,""Complete Electrical Substations for Electrical Engineering" by Ahmed Mahdy",Math-And-Logic|Electrical-And-Mechanical-Engineering
+4069,""Electrical Engineering: Power Electronics" by Nathan Slaughter",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+4148,""Nutrition Masterclass: Build Your Perfect Diet & Meal Plan" by Felix Harder",Health|Physics-And-Astronomy
+4149,""Electrical Machines for Electrical Engineering" by Ahmed Mahdy",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+4153,""Digital Electronics - RoboGrok Automation" by Terry Sturtevant",Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+4161,""The Complete Graphic Design Theory for Beginners Course" by Lindsay Marsh",Course-Difficulty|Arts-And-Humanities
+4167,""Classical Physics: Journey Through the Laws of the Universe" by Paul Duxbury",Physics-And-Astronomy
+4223,""Algebra 1, 2, and Precalculus in a Year: First Half" by Dana Mosely",Math-And-Logic
+4228,""Analog Electronics - RoboGrok Automation" by Terry Sturtevant",Arts-And-Humanities|Computer-Science|Electrical-And-Mechanical-Engineering
+4232,""Digital Painting - Create Amazing Concept Art with Photoshop" by Austin Batchelor",Course-Difficulty|Business-And-Management|Environmental-Science|Arts-And-Humanities
+4238,""Modern Physics: Quantum Mechanics, Relativity, and String Theory" by Ben Brubaker",Course-Difficulty|Computer-Science|Social-Science|Physics-And-Astronomy
+4239,""Linear Algebra - Foundations to Frontiers" by The University of Texas at Austin",Computer-Science|Math-And-Logic
+4246,"Bridget Jones's Diary (2001)",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+4247,""Power Systems Analysis - A Practical Approach" by Ahmed Mahdy",Business-And-Management|Arts-And-Humanities|Social-Science|Electrical-And-Mechanical-Engineering
+4254,""Mathematics for Machine Learning" by Imperial College London",Arts-And-Humanities|Math-And-Logic
+4270,""The Ultimate Guide to Telescopes & Binoculars" by Chris Miller",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Physics-And-Astronomy
+4299,""Introduction to Aerospace Engineering with a Flight Test Perspective" by Dr. G. C. Reddy",Course-Difficulty|Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+4306,""HVAC Simplified Course: Heating, Ventilation, and Air Conditioning" by Ahmed Mahdy",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+4308,""Engineering Mechanics - The Ultimate Guide" by Fadi A. Fouad",Math-And-Logic|Electrical-And-Mechanical-Engineering
+4310,""Complete Vehicle Dynamics for Mechanical Engineers" by Sharif Salah",Course-Difficulty|Math-And-Logic|Electrical-And-Mechanical-Engineering
+4340,""Music Theory Comprehensive: Part 1 - How to Read Music" by Jason Allen",Arts-And-Humanities
+4343,""The Science of Happiness: A Positive Psychology Course" by Taylor Johnson",Arts-And-Humanities|Digital-Marketing
+4344,""Topology: The Complete Course" by Tadashi Tokieda",Course-Difficulty|Computer-Science|Math-And-Logic
+4366,""Learn Spanish - Conversational Spanish Rapid-Learning Method" by Patrick Jackson",Business-And-Management|Design|Environmental-Science|Language-Learning
+4367,""Introduction to Psychology: The Full University Course!" by Andrew Luttrell",Course-Difficulty|Business-And-Management
+4368,""Creative Writing: Crafting Personal Essays with Impact" by Roxane Gay",Arts-And-Humanities
+4369,""Astronomy: State of the Art" by Chris Impey",Course-Difficulty|Computer-Science|Physics-And-Astronomy
+4370,""An Entire MBA in 1 Course: Award Winning Business School Prof" by Chris Haroun",Business-And-Management|Math-And-Logic|Digital-Marketing
+4386,""The Complete Drawing Masterclass: From Beginner to Advanced" by Quinton Batchelor",Environmental-Science|Arts-And-Humanities
+4388,""The Complete Works of William Shakespeare" by Barry M. Putt Jr.",Arts-And-Humanities
+4446,"Final Language-Learning: The Spirits Within (2001)",Business-And-Management|Design|Language-Learning|Digital-Marketing
+4447,""Philosophy for Beginners!" by Marianne Talbot",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+4448,""Logic Pro X Masterclass: The Complete Guide to Logic Pro X" by Martin Svensson",Course-Difficulty|Math-And-Logic
+4638,""Physics 101: The Complete Physics Bootcamp" by Chad Neuman",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+4639,"America's Sweethearts (2001)",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+4641,"Ghost World (2001)",Arts-And-Humanities|Math-And-Logic
+4643,""The Complete Financial Analyst Course" by 365 Careers",Course-Difficulty|Business-And-Management|Math-And-Logic|Digital-Marketing
+4700,"Princess Diaries, The (2001)",Environmental-Science|Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+4701,""Fashion as Design" by The Museum of Modern Art",Course-Difficulty|Arts-And-Humanities
+4718,""Interior Design 101" by Lauren Cox",Arts-And-Humanities
+4720,""Psychology 101: How To Understand Yourself and Others" by Andrew Luttrell",Math-And-Logic|Health|Social-Science|Physics-And-Astronomy
+4728,""Digital Art & Animation for Beginners: A Course in Creativity" by Jaysen Batchelor",Arts-And-Humanities
+4734,""Photoshop CC 2022 MasterClass: Be a Creative Professional" by Phil Ebiner",Business-And-Management|Arts-And-Humanities
+4776,""Complete Python Bootcamp: Go from zero to hero in Python 3" by Jose Portilla",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+4816,""Character Art School: Complete Coloring and Painting Course" by Scott Harris",Arts-And-Humanities
+4823,""Piano For All - Udemy's Top Piano Instructor - PAID" by Robin Hall",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+4848,""JavaScript - The Complete Guide 2022 (Beginner + Advanced)" by Maximilian Schwarzmüller",Computer-Science|Math-And-Logic|Social-Science|Physics-And-Astronomy
+4865,""Java Programming Masterclass for Software Developers" by Tim Buchalka",Computer-Science|Health|Social-Science|Physics-And-Astronomy
+4873,""Graphic Design Bootcamp: Photoshop, Illustrator, InDesign" by Derrick Mitchell",Design|Math-And-Logic|Language-Learning
+4874,""French for Beginners: The COMPLETE Crash Course" by Ysis Challenges",Math-And-Logic|Language-Learning|Social-Science|Digital-Marketing
+4876,""Complete Fitness Trainer Certification: Beginner to Advanced" by Felix Harder",Health|Physics-And-Astronomy
+4878,""Political Science - A Complete Introduction" by Peter Joyce",Math-And-Logic|Social-Science|Digital-Marketing|Physics-And-Astronomy
+4881,""The Web Developer Bootcamp 2022" by Colt Steele",Computer-Science|Math-And-Logic
+4886,""The Complete Web Design Course - Build 20 Websites" by Rob Percival",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Language-Learning
+4887,""Digital Marketing Masterclass: Get Your First 1,000 Customers" by Evan Kimbrell",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+4890,""Japanese In Context - Elementary Japanese Course" by Akiko Yano",Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+4896,""Complete Russian Course: Learn Russian for Beginners" by AbcEdu Online",Business-And-Management|Environmental-Science|Language-Learning
+4901,""The Inexplicable Universe: Unsolved Mysteries" by Neil deGrasse Tyson",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+4902,""Korean for Beginners: Master Korean Language" by AbcEdu Online",Math-And-Logic|Language-Learning|Health|Physics-And-Astronomy
+4903,""Symbolic Logic: A First Course" by Brian Rabern",Math-And-Logic
+4958,""Game Theory: The Complete Introduction" by William Spaniel",Course-Difficulty|Math-And-Logic
+4963,""Machine Learning A-Z™: Hands-On Python & R In Data Science" by Kirill Eremenko, Hadelin de Ponteves",Computer-Science|Physics-And-Astronomy
+4967,""Linear Algebra - Foundations to Frontiers" by The University of Texas at Austin",Math-And-Logic
+4973,""Music Production in Ableton Live 10 - The Complete Course!" by Tomas Georg",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+4974,""Screenwriting: Write a Feature-Length Screenplay in 30 Days" by Industrial Scripts",Arts-And-Humanities
+4975,""Electromagnetic Fields and Waves" by Ahmed Taha",Social-Science|Electrical-And-Mechanical-Engineering|Digital-Marketing|Physics-And-Astronomy
+4979,""The Art of Critical Decision Making" by The Great Courses",Arts-And-Humanities|Math-And-Logic
+4992,""Mechanical Engineering: Complete Introduction" by Olufisayo Jejelowo",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+4993,""Strategic Management: Concepts and Tools" by Chris Croft",Business-And-Management|Language-Learning
+4994,""Typography for Designers & Developers - Don't suck at design" by Joe Natoli",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+4995,""Mathematical Problem Solving for Everyone" by Prof. Stanislav Ström",Math-And-Logic|Electrical-And-Mechanical-Engineering
+5010,""Boolean Algebra: A Complete Study" by William Spaniel",Course-Difficulty|Math-And-Logic
+5013,""Introduction to Logic: The Complete Course" by David Ross",Arts-And-Humanities|Math-And-Logic|Social-Science
+5014,""Probability and Statistics for Business and Data Science" by Jose Portilla",Math-And-Logic
+5015,""Abstract Algebra - Groups, Rings and Fields" by The University of Texas at Austin",Math-And-Logic|Electrical-And-Mechanical-Engineering
+5025,""Drawing for Beginners: Learn to Draw Anything" by Robin Slee",Arts-And-Humanities
+5026,""Understanding Cultural Diversity" by UC Davis",Course-Difficulty|Social-Science|Physics-And-Astronomy
+5064,""Stock Market Investing for Beginners" by John Ducas",Course-Difficulty|Business-And-Management|Math-And-Logic|Physics-And-Astronomy
+5065,""Cultural Anthropology: Understanding Ourselves and Others" by Dr. John Caffrey",Math-And-Logic|Language-Learning|Health|Social-Science|Physics-And-Astronomy
+5066,""Mathematics for Machine Learning" by Imperial College London",Math-And-Logic|Electrical-And-Mechanical-Engineering
+5072,""Adobe Illustrator CC 2022 MasterClass: Beginner to Advanced" by Phil Ebiner",Design|Digital-Marketing
+5108,""TensorFlow 2.0: Deep Learning and Artificial Intelligence" by Lazy Programmer Team)",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+5110,""Biological Anthropology: An Evolutionary Perspective" by Todd Sanders",Arts-And-Humanities|Computer-Science|Social-Science
+5128,""Russian Language Course - Authentic Dialects and Accents" by AbcEdu Online",Language-Learning|Health
+5135,"Monsoon Wedding (2001)",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+5152,""Set Theory: A Complete Introduction" by Tadashi Tokieda",Course-Difficulty|Math-And-Logic
+5171,""Supply Chain Management: Fundamentals, Design, Operations" by Krasimir Kirov",Course-Difficulty|Business-And-Management|Digital-Marketing
+5218,""Business Ethics and Corporate Governance" by John Fraedrich",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+5219,"Finance for Non-Finance Managers" by Rayan Takki",Course-Difficulty|Health|Digital-Marketing|Physics-And-Astronomy
+5220,""Graphic Design Elements for Non-Designers" by Martin Perhiniak",Course-Difficulty|Arts-And-Humanities
+5254,""Mindfulness Practitioner Course (Level I, II, III & Master)" by Kain Ramsay",Course-Difficulty|Health|Physics-And-Astronomy
+5265,""Editing Mastery: How to Edit Writing to Perfection" by Shani Raja",Arts-And-Humanities|Computer-Science|Math-And-Logic
+5266,""Physics: Newton's Laws of Motion" by TELCOMA Global",Physics-And-Astronomy
+5267,""Number Theory and Cryptography" by William Spaniel",Math-And-Logic
+5283,""Storytelling Fundamentals: Character, Conflict, Context, Craft" by Daniel Jose Older",Arts-And-Humanities
+5294,""The Complete Cyber Security Course: Hackers Exposed!" by Nathan House",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+5296,"Sweetest Thing, The (2002)",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+5299,"My Big Fat Greek Wedding (2002)",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+5313,""Learn German Language: Complete German Course - Beginners" by AbcEdu Online",Course-Difficulty|Business-And-Management|Language-Learning|Physics-And-Astronomy
+5329,""CompTIA Security+ Certification (SY0-601): The Total Course" by Mike Meyers",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+5349,""The Complete SEO Course: Rank Your Website in Google Easily" by Daragh Walsh",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+5377,""Microcontroller Programming and Interfacing: Texas Instruments" by Israel Gbati",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+5378,""Instagram Marketing 2022: Complete Guide To Instagram Growth" by Benjamin Wilson",Course-Difficulty|Business-And-Management|Digital-Marketing
+5380,""Functional Programming in Haskell: Supercharge Your Coding" by Renan Moura",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+5388,""Learn Database Design with MySQL" by Eduonix Learning Solutions",Course-Difficulty|Computer-Science|Math-And-Logic|Social-Science|Physics-And-Astronomy
+5400,""Complex Analysis: A Comprehensive Course" by Derek Owens",Math-And-Logic|Physics-And-Astronomy
+5418,""Quantum Physics: Concepts and Theories" by Christopher Gerry",Course-Difficulty|Social-Science|Physics-And-Astronomy
+5419,""The History of Ancient Rome" by Dr. Eric Fournier",Business-And-Management|Environmental-Science|Arts-And-Humanities|Language-Learning|Social-Science
+5444,""Environmental Science: Learn the Basics in Under 6 Hours" by George Nwihim",Business-And-Management|Design|Environmental-Science|Digital-Marketing
+5445,""Node.js - The Complete Guide (MVC, REST APIs, GraphQL, Deno)" by Maximilian Schwarzmüller",Course-Difficulty|Computer-Science|Social-Science|Digital-Marketing|Physics-And-Astronomy
+5449,""The Creative Writing Course: Twelve Authors Teach You How" by Margaret Atwood, Neil Gaiman, and more",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+5459,""Writing Fiction That Sells" by Jessica Brody",Course-Difficulty|Arts-And-Humanities|Digital-Marketing
+5463,"Reign of Fire (2002)",Course-Difficulty|Business-And-Management|Language-Learning
+5464,""Full Stack Web Development Bootcamp 2022" by Dr. Angela Yu",Computer-Science|Math-And-Logic
+5481,""Storytelling Fundamentals: Character, Conflict, Context, Craft" by Daniel José Older",Arts-And-Humanities
+5502,"Signs (2002)",Health|Digital-Marketing|Physics-And-Astronomy
+5505,""Mathematics for Machine Learning Specialization" - Imperial College London",Arts-And-Humanities|Math-And-Logic
+5507,""Complete C# Unity Game Developer 3D" by Ben Tristem",Course-Difficulty|Computer-Science|Physics-And-Astronomy
+5528,"One Hour Photo (2002)",Math-And-Logic|Physics-And-Astronomy
+5574,""Java Programming Masterclass for Software Developers" by Tim Buchalka",Course-Difficulty|Computer-Science
+5577,""Music Theory Comprehensive: Part 4 - Modes and Counterpoint" by Jason Allen",Arts-And-Humanities|Math-And-Logic
+5608,""Data Science and Machine Learning Bootcamp with R" - University of California, Irvine",Math-And-Logic|Physics-And-Astronomy
+5618,"Business Development & B2B Sales for Startups- Sales Valley",Business-And-Management|Design|Language-Learning
+5620,""Complete Guitar System - Beginner to Advanced" by Erich Andreas",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+5621,""Music Production in Logic Pro X: Audio Mixing for Podcasts" by Tomas George",Course-Difficulty|Arts-And-Humanities
+5630,""The Complete Cyber Security Course: Hackers Exposed!" by Nathan House",Computer-Science|Social-Science|Physics-And-Astronomy
+5669,"Machine Learning by Andrew Ng",Data-Science
+5673,"Punch-Drunk Love (2002)",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+5679,"Introduction to Health and Wellness - Arizona State University",Health|Social-Science|Physics-And-Astronomy
+5785,""The Ultimate Guide to Becoming a Drummer!" by Simon DasGupta",Course-Difficulty|Arts-And-Humanities|Data-Science
+5791,""Statistics and R" - Duke University",Math-And-Logic|Electrical-And-Mechanical-Engineering
+5810,""Introduction to Mathematical Thinking" - Stanford University",Math-And-Logic
+5812,""Discrete Mathematics for Computer Scientists" - University of California, San Diego",Math-And-Logic|Electrical-And-Mechanical-Engineering
+5816,"Complete Spanish Course: Learn Spanish for Beginners",Business-And-Management|Language-Learning
+5872,"An Entire MBA in 1 Course: Award Winning Business School Prof",Course-Difficulty|Business-And-Management|Physics-And-Astronomy
+5878,""Statistics Foundations"-Eddie Davila",Math-And-Logic|Electrical-And-Mechanical-Engineering
+5881,"Advanced Microsoft Excel"-Curt Frye",Math-And-Logic|Electrical-And-Mechanical-Engineering|Digital-Marketing
+5902,""Philosophy for Beginners! A Comprehensive Guide" by Marianne Talbot",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+5903,"Business Model Canvas 101: Entrepreneur's Guide to Business",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+5943,"Maid in Manhattan (2002)",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+5944,""Logic Pro X Essential Training"-Scott Hirsch",Course-Difficulty|Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+5945,""World War II: A Complete History" by Sean Adams",Arts-And-Humanities|Math-And-Logic
+5952,"The Complete Business Plan Course (Includes 50 Templates)",Business-And-Management|Language-Learning
+5954,""Learning Boolean Algebra"-Malcolm Shore",Computer-Science|Math-And-Logic
+5956,"Gans generative adversarial model coursera",Computer-Science|Math-And-Logic
+5957,""Digital Painting: From Beginner to Master" by Austin Batchelor",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+5989,""Mathematics for Computer Science"-Lawrence C. Paulson",Computer-Science|Math-And-Logic
+5991,""Graphic Design Elements for Non-Designers" by Martin Perhiniak",Arts-And-Humanities|Computer-Science|Math-And-Logic
+5992,""Statistics for Business Analytics and Data Science"-365 Careers",Math-And-Logic|Electrical-And-Mechanical-Engineering
+5995,""Discrete Mathematics: An Open Introduction"-Oscar Levin",Math-And-Logic
+6003,""CompTIA Security+ Certification (SY0-601): The Total Course" by Mike Meyers",Arts-And-Humanities|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+6016,""Linear Algebra for Beginners: Open Doors to Great Careers"-Bluelime Learning Solutions",Course-Difficulty|Business-And-Management|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+6058,"Foundations of Public Health Practice - Imperial College London",Health|Physics-And-Astronomy
+6059,"Fundamentals of Physics - RIT (Rochester Institute of Technology)",Course-Difficulty|Physics-And-Astronomy
+6155,""Character Art School: Complete Character Drawing Course" by Scott Harris",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+6156,""Typography for Designers & Developers - Don't suck at design" by Joe Natoli",Course-Difficulty|Business-And-Management|Arts-And-Humanities
+6157,""Oracle SQL: Become a Certified SQL Developer From Scratch!" by Imtiaz Ahmad",Course-Difficulty|Computer-Science
+6188,""Photography Masterclass: A Complete Guide to Photography" by Phil Ebiner",Arts-And-Humanities
+6218,""Critical Thinking: The Art of Argument" by Steve Patterson",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+6281,""Probability and Statistics for Business and Data Science"-Jose Portilla",Math-And-Logic|Physics-And-Astronomy
+6283,"Mechanics: Kinematics and Dynamics - Georgia Institute of Technology",Course-Difficulty|Design|Digital-Marketing|Physics-And-Astronomy
+6287,""Symbolic Logic: A First Course" by Brian Rabern",Arts-And-Humanities
+6294,"Bulletproof Monk (2003)",Course-Difficulty|Business-And-Management|Digital-Marketing
+6296,""Creative Writing Specialization" by Wesleyan University",Arts-And-Humanities
+6297,"Employee Motivation Masterclass: Build Motivation in the Workplace",Business-And-Management|Environmental-Science|Arts-And-Humanities|Social-Science
+6323,"Epidemiology - University of North Carolina at Chapel Hill",Computer-Science|Health|Social-Science|Physics-And-Astronomy
+6331,""Deep Learning A-Z™: Hands-On Artificial Neural Networks" by Kirill Eremenko, Hadelin de Ponteves",Data-Science
+6333,"Einstein's Theory of Special Relativity and General Relativity - Stanford University",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+6365,"Exploring Time and Space: Gravitational Waves - University of Arizona",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+6367,""Modern Poetry" by University of Illinois at Urbana-Champaign",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+6373,""The Fiction of Relationship" by Brown University",Arts-And-Humanities|Math-And-Logic|Language-Learning|Electrical-And-Mechanical-Engineering
+6377,""Writing Professional Emails and Memos" by University of California, Irvine",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+6378,""MongoDB - The Complete Developer's Guide" by Maximilian Schwarzmüller",Course-Difficulty|Computer-Science
+6383,"Quantum Mechanics: Quantum Physics in 3D Potentials - University of Geneva",Course-Difficulty|Computer-Science|Physics-And-Astronomy
+6385,"Math for ML and DL AI4E coursera",Math-And-Logic
+6482,""Shakespeare and his World" by University of Warwick",Arts-And-Humanities
+6502,"Introduction to Breast Cancer - Yale University",Course-Difficulty|Health|Digital-Marketing
+6503,"Financial Modeling for Business Analysts and Consultants",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Computer-Science|Physics-And-Astronomy
+6534,Accounting - Financial Accounting Total-Beginners to Advanced",Course-Difficulty|Business-And-Management|Digital-Marketing
+6535,""Music Production" by Berklee College of Music",Arts-And-Humanities
+6537,"Excel Crash Course: Master Excel for Financial Analysis",Course-Difficulty|Business-And-Management|Digital-Marketing
+6539,""How to Make a Comic Book (Project-Centered Course)" by High Tech High Graduate School of Education",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Language-Learning
+6541,"Risk Management for Project Professionals",Course-Difficulty|Language-Learning|Digital-Marketing
+6548,""DevOps: CI/CD with Jenkins Pipelines, Maven, and Docker" by Ricardo Andre Gonzalez Martinez",Course-Difficulty|Arts-And-Humanities|Computer-Science|Physics-And-Astronomy
+6550,""Fundamentals of Music Theory" by The University of Edinburgh",Course-Difficulty|Arts-And-Humanities|Physics-And-Astronomy
+6552,""CompTIA Security+ Certification (SY0-601): The Total Course" by Mike Meyers",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+6564,"The Complete Financial Analyst Course 2021",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Electrical-And-Mechanical-Engineering|Physics-And-Astronomy
+6565,"Data Science Math Skills - Duke University",Math-And-Logic
+6586,""Jazz Improvisation" by Berklee College of Music",Arts-And-Humanities
+6593,""Guitar for Beginners" by Berklee College of Music",Environmental-Science|Arts-And-Humanities|Language-Learning
+6595,"Quantum Mechanics: Quantum Physics in 3D Potentials - University of Geneva",Course-Difficulty|Physics-And-Astronomy
+6618,""The History of Modern Israel – Part II: Challenges of Israel as a sovereign state" by Tel Aviv University",Course-Difficulty|Arts-And-Humanities
+6620,""The Ancient Greeks" by Wesleyan University",Arts-And-Humanities|Math-And-Logic
+6708,"Matchstick Men (2003)",Arts-And-Humanities|Computer-Science|Math-And-Logic
+6709,""Software Testing Masterclass: Complete Testing Course" by Ricardo Andre Gonzalez Martinez",Course-Difficulty|Business-And-Management|Computer-Science|Physics-And-Astronomy
+6711,"Model Thinking - University of Michigan",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+6753,""Introduction to Philosophy" by The University of Edinburgh",Environmental-Science|Arts-And-Humanities|Math-And-Logic
+6754,"Learn French Naturally For Children and the Young at Heart 1",Course-Difficulty|Language-Learning|Health
+6755,""The Holocaust: The Destruction of European Jewry" by Wesleyan University",Arts-And-Humanities|Health
+6764,"Injury Prevention - University of Michigan",Course-Difficulty|Business-And-Management|Arts-And-Humanities
+6773,"Spanish Tenses Simplified: Master the Main Tenses FAST!",Design|Arts-And-Humanities|Language-Learning
+6863,""African American History: From Emancipation to the Present" by Yale University",Arts-And-Humanities
+6867,""Spanish for Successful Communication in Healthcare Settings" by Rice University",Arts-And-Humanities|Math-And-Logic
+6870,""React - The Complete Guide (incl Hooks, React Router, Redux)" by Maximilian Schwarzmüller",Computer-Science|Math-And-Logic|Social-Science
+6873,""Introduction to Linguistics" by The University of Sydney",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+6874,"Astronomy: Exploring Time and Space - University of Arizona",Course-Difficulty|Computer-Science|Physics-And-Astronomy
+6879,"Quantum Mechanics and Quantum Computation - University of California, Santa Barbara",Math-And-Logic|Physics-And-Astronomy
+6888,""Graphic Design Specialization" by California Institute of the Arts",Arts-And-Humanities|Health
+6934,"The Science of the Solar System - California Institute of Technology",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+6936,"French for Beginners - Université de Lausanne",Environmental-Science|Arts-And-Humanities|Language-Learning
+6942,""Photography Basics and Beyond: From Smartphone to DSLR" by Michigan State University",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+6947,"Master and Commander: The Far Side of the World (2003)",Business-And-Management|Math-And-Logic
+6953,""React Native - The Practical Guide [2022 Edition]" by Maximilian Schwarzmüller",Computer-Science|Math-And-Logic|Social-Science|Electrical-And-Mechanical-Engineering|Physics-And-Astronomy
+6957,""Ruby Programming Language - Complete Guide" by Udemy Instructor Team",Arts-And-Humanities|Computer-Science
+6958,""Introduction to Art: Concepts & Techniques" by University of Melbourne",Environmental-Science|Arts-And-Humanities|Language-Learning|Health
+7090,"The Lean Startup: Best course on Entrepreneurship",Course-Difficulty|Business-And-Management|Math-And-Logic
+7137,""Creative Problem Solving" by University of Minnesota",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+7143,"Start & Run a Successful & Profitable Home SEO Business",Course-Difficulty|Business-And-Management|Math-And-Logic
+7147,"Mathematics for Economics and Finance Specialization - University of Washington",Math-And-Logic|Language-Learning|Electrical-And-Mechanical-Engineering
+7149,""Game Design and Development" by Michigan State University",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+7150,"Stuck on You book",Arts-And-Humanities
+7151,"Probability and Statistics for Business and Data Science",Math-And-Logic|Electrical-And-Mechanical-Engineering
+7153,"Marketing Psychology: How To Become A Master Of Influence",Course-Difficulty|Business-And-Management|Math-And-Logic|Language-Learning
+7154,"Multivariate Calculus - Imperial College London",Math-And-Logic|Electrical-And-Mechanical-Engineering
+7156,"Real Analysis - École Polytechnique Fédérale de Lausanne",Data-Science
+7160,""iOS 15 & Swift 5 - The Complete iOS App Development Course" by Angela Yu",Computer-Science|Math-And-Logic
+7162,"Functional Programming in Scala Specialization - École Polytechnique Fédérale de Lausanne",Math-And-Logic|Electrical-And-Mechanical-Engineering
+7163,"Astrophysics: Cosmology - National Research Nuclear University MEPhI",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+7173,""Creative Inspirations: Duarte Design, Presentation Design Studio" by Duarte Design",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+7254,"Advanced Linear Models for Data Science - Microsoft",Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+7263,"Introduction to Algebraic Structures - University of California, Irvine",Math-And-Logic
+7265,"Mathematics for Artificial Intelligence - Microsoft",Math-And-Logic
+7293,""Writing in Plain English" by Judy Steiner-Williams",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+7317,""Music Theory for Songwriters: Harmony" by Julian Velard",Business-And-Management|Arts-And-Humanities
+7323,"Introduction to Probability and Statistics by MIT",Arts-And-Humanities|Math-And-Logic
+7324,"Introduction to Commutative Algebra by MIT",Business-And-Management|Math-And-Logic
+7325,"Introduction to Thermodynamics - University of Michigan",Course-Difficulty|Arts-And-Humanities|Computer-Science|Physics-And-Astronomy
+7347,"Particle Physics: an Introduction - University of Geneva",Social-Science|Physics-And-Astronomy
+7360,"Astrophysics: Cosmology - National Research Nuclear University MEPhI",Course-Difficulty|Math-And-Logic|Health|Physics-And-Astronomy
+7361,"Complex Variables with Applications by MIT",Math-And-Logic|Electrical-And-Mechanical-Engineering|Digital-Marketing
+7367,""GraphQL with React: The Complete Developers Guide" by Stephen Grider",Arts-And-Humanities|Computer-Science
+7371,"Einstein's Theory of Special Relativity and General Relativity - Stanford University",Math-And-Logic|Social-Science|Physics-And-Astronomy
+7373,"Italian Language and Culture for Beginners by Udemy",Course-Difficulty|Business-And-Management|Language-Learning|Health
+7438,"Introduction to Classical Mechanics - University of Florida",Course-Difficulty|Math-And-Logic|Physics-And-Astronomy
+7439,""MERN Stack Front To Back: Full Stack React, Redux & Node.js" by Brad Traversy",Course-Difficulty|Computer-Science|Physics-And-Astronomy
+7444,""Philosophy and Ethics in the AI Age" by Kirk Borne",Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+7445,""Kotlin for Android: Beginner to Advanced" by Mohammad Ily",Course-Difficulty|Computer-Science|Math-And-Logic|Social-Science|Physics-And-Astronomy
+7451,""Photography Foundations: Composition" by Ben Long",Arts-And-Humanities
+7454,"Six Sigma Green Belt (With Excel Application)",Course-Difficulty|Business-And-Management|Language-Learning|Health
+7458,"Employee Motivation Masterclass: Build Motivation in the Workplace",Course-Difficulty|Business-And-Management|Math-And-Logic
+8014,Complex Analysis - Massachusetts Institute of Technology (MIT) by University of Florida",Math-And-Logic
+8360,""The Fiction of Relationship" by Brown University",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+8361,"The Complete Agile Scrum Master Bootcamp",Course-Difficulty|Business-And-Management|Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+8366,""Introduction to Poetry" by University of Washington",Arts-And-Humanities|Math-And-Logic
+8368,"Agile Scrum Mastery: Full Project Management Certification",Business-And-Management|Language-Learning
+8370,""Software Architecture: Complete Guide" by TELCOMA Global",Course-Difficulty|Arts-And-Humanities|Computer-Science|Math-And-Logic
+8371,"Social Media Marketing Specialization - Northwestern University",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+8373,"Stepford Wives music by MIT",Arts-And-Humanities|Language-Learning|Physics-And-Astronomy
+8376,"Modern Art and Ideas by The Museum of Modern Art",Arts-And-Humanities
+8464,""Shakespeare’s Hamlet: The Ghost" by Harvard University",Arts-And-Humanities|Data-Science|Math-And-Logic
+8528,""Jazz Appreciation" by University of Iowa",Arts-And-Humanities
+8529,""History of Rock, Part One" by University of Rochester",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+8533,"Discrete Optimization - North Carolina State University",Math-And-Logic|Electrical-And-Mechanical-Engineering
+8622,""Learn Database Design with MySQL" by Eduonix Learning Solutions",Data-Science
+8636,"Quality Management for Business Excellence by Havard",Course-Difficulty|Business-And-Management|Digital-Marketing
+8638,"Mathematics for Artificial Intelligence 2nd - Microsoft",Math-And-Logic|Electrical-And-Mechanical-Engineering
+8640,"Complex Analysis 2nd - Massachusetts Institute of Technology (MIT)",Course-Difficulty|Business-And-Management|Math-And-Logic
+8641,""Guitar for Beginners" by Berklee College of Music",Arts-And-Humanities
+8644,"I, Robot (2004)",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+8665,"Astronomy: Exploring Time and Space 2nd - University of Arizona",Course-Difficulty|Computer-Science|Physics-And-Astronomy
+8781,"Galaxies and Cosmology 2 - University of Arizona",Physics-And-Astronomy
+8783,"Mechanics: Kinematics and Dynamics 2 - Georgia Institute of Technology",Math-And-Logic|Social-Science|Physics-And-Astronomy
+8784,""Making Music with Others" by Berklee College of Music",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+8798,"Fundamentals of Physics 2 - RIT (Rochester Institute of Technology)",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+8807,""Introduction to Music Theory" by Berklee College of Music",Business-And-Management|Arts-And-Humanities
+8810,"AVP: Alien ",Course-Difficulty|Health|Digital-Marketing|Physics-And-Astronomy
+8861,"Modern Physics: Quantum Mechanics - Havard",Course-Difficulty|Health|Digital-Marketing|Physics-And-Astronomy
+8865,"Accounting - Financial Accounting Total-Beginners to Advanced 2",Course-Difficulty|Business-And-Management|Digital-Marketing
+8873,"Accounting - Financial Accounting Total-Beginners to Advanced 3",Business-And-Management|Math-And-Logic
+8874,""The Science of Happiness" by University of California, Berkeley",Arts-And-Humanities|Health
+8907,""The History of Modern Israel" by Tel Aviv University",Design|Environmental-Science|Arts-And-Humanities
+8910,""A History of East Asia" by University of Tokyo",Arts-And-Humanities
+8914,"Primer (2004)",Math-And-Logic|Digital-Marketing
+8917,""China’s Political and Intellectual Foundations: From Sage Kings to Confucius" by Harvard University",Course-Difficulty|Business-And-Management|Design|Arts-And-Humanities
+8947,"Introduction to Thermodynamics 3 - University of Michigan",Health|Social-Science|Physics-And-Astronomy
+8949,""Philosophy and Critical Thinking" by University of Queensland",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+8950,"Quantum Mechanics: Quantum Physics in 2D Potentials - University of Geneva",Math-And-Logic|Social-Science|Physics-And-Astronomy
+8957,"Health for All - Johns Hopkins University",Health|Social-Science|Physics-And-Astronomy
+8958,"Mathematical Thinking in Computer Science 2 by MIT",Math-And-Logic
+8961,""Mandarin Chinese for Beginners" by Peking University",Course-Difficulty|Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+8965,"Spanish for Beginners 2 - University of California, Davis ",Business-And-Management|Design|Environmental-Science|Language-Learning
+8969,""Spanish for Beginners" by Autonomous University of Barcelona",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+8970,"Complex Variables with Applications 2 by Havard",Math-And-Logic
+8972,"Number Theory and the Secrets of Numbers 2",Course-Difficulty|Business-And-Management|Math-And-Logic|Social-Science|Physics-And-Astronomy
+8977,"Mathematical Thinking in Computer Science 3 by MIT",Course-Difficulty|Business-And-Management|Math-And-Logic
+8981,"Linear Algebra Foundations to Frontiers - The University of Texas at Austin",Math-And-Logic|Electrical-And-Mechanical-Engineering
+8983,"Mathematics for Machine Learning: Linear Algebra 2 - Imperial College London",Course-Difficulty|Math-And-Logic|Electrical-And-Mechanical-Engineering
+8984,""The Miracles of Human Language: An Introduction to Linguistics" by Leiden University",Course-Difficulty|Arts-And-Humanities|Computer-Science|Physics-And-Astronomy
+8985,"Advanced Level Physics - Udemy",Course-Difficulty|Language-Learning|Health|Physics-And-Astronomy
+27611,"Applied Data Science with Python Specialization - University of Michigan (Includes a Linear Algebra course)",Math-And-Logic|Digital-Marketing
+27660,""Graphic Design Basics" by University of Colorado Boulder",Course-Difficulty|Design|Math-And-Logic|Digital-Marketing
+27706,""The Art of Structural Engineering: Vaults" by Princeton University",Business-And-Management|Environmental-Science|Arts-And-Humanities|Language-Learning
+27773,"Quantum Physics 2 - Udemy",Social-Science|Physics-And-Astronomy
+27801,"AP Physics C: Mechanics - Khan Academy",Course-Difficulty|Physics-And-Astronomy
+27808,""Creative Writing: Crafting Personal Essays with Impact" by Roxane Gay",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+27815,"The Ultimate Linear Algebra Theory and Implementation Guide 2",Math-And-Logic
+27831,"The Ultimate Linear Algebra Theory and Implementation Guide 3",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+27846,"Data Science and Machine Learning Bootcamp with Matlab 2 - University of São Paulo",Data-Science
+27904,"SIntroduction to Commutative Algebra 3 by MIT",Design|Math-And-Logic|Social-Science|Digital-Marketing|Physics-And-Astronomy
+30707,"Introduction to Commutative Algebra 4 by MIT",Math-And-Logic
+30749,"Introduction to Commutative Algebra 5 by MIT",Math-And-Logic
+30793,""The Creative Writer’s Toolkit" by Hannah Lee Kidder",Business-And-Management|Environmental-Science|Arts-And-Humanities|Language-Learning
+30810,""Writing Fiction: A Guide to Narrative Craft" by Lisa Cron",Business-And-Management|Arts-And-Humanities|Language-Learning
+30812,"Introduction to Probability and Statistics 2 by Havard",Math-And-Logic
+30816,"Introduction to Topology 3 by MIT",Math-And-Logic|Electrical-And-Mechanical-Engineering
+30822,""Logo Design with Draplin: Secrets of Shape, Type, and Color" by Aaron Draplin",Arts-And-Humanities|Math-And-Logic
+30825,""Songwriting for Producers" by Eyal Levi",Arts-And-Humanities
+31221,"Introduction to Topology by Havard 2",Course-Difficulty|Business-And-Management|Computer-Science|Math-And-Logic
+31410,"Advanced Linear Models for Data Science 2 - Microsoft",Math-And-Logic
+31433,"Logo Design with Grids - George Bokhua (Skillshare)",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+31658,"Web Design - Andy Pratt (Skillshare)",Business-And-Management|Design|Language-Learning|Electrical-And-Mechanical-Engineering
+31685,""Drawing as Self-Discovery: 5 Ways to Start" by Mari Andrew",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+31696,"Italian Language and Culture for Beginners 2",Course-Difficulty|Language-Learning|Health|Physics-And-Astronomy
+31878,""Digital Illustration: Learn to Use Procreate" by Jarom Vogel",Course-Difficulty|Arts-And-Humanities
+32029,"Abstract Algebra 3 by MIT",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+32031,""Music Theory Comprehensive: Part 1 - How to Read Music" by Jason Allen",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Language-Learning|Digital-Marketing
+32587,"Social Psychology 2 - Wesleyan University",Course-Difficulty|Computer-Science|Social-Science|Physics-And-Astronomy
+33004,""Learn Guitar: The Complete Beginners Guide" by Andrew Clarke",Business-And-Management|Arts-And-Humanities|Digital-Marketing
+33162,"Essential Mathematics for Artificial Intelligence 2 - Microsoft",Course-Difficulty|Math-And-Logic|Electrical-And-Mechanical-Engineering
+33166,"Stock prediction using Deep Learning",Computer-Science|Math-And-Logic
+33493,"Marketing Psychology: How To Become A Master Of Influence 2",Course-Difficulty|Business-And-Management|Digital-Marketing
+33615,""The Complete Music Production Course"",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+33660,""Music Composition Masterclass"",Math-And-Logic|Electrical-And-Mechanical-Engineering
+33679,"Mr. & Mrs. Smith how to be make a business",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+33794,"Deep Learning by Deeplearning.AI",Course-Difficulty|Computer-Science
+33836,""Music Theory Comprehensive: Part 5 - Counterpoint Complete"",Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+34048,"Particle Physics: an Introduction 3 - University of Geneva",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+34072,"Data Science for Executives - Columbia University",Data-Science
+34150,"Search Engine Optimization (SEO) 2 - University of California, Davis",Course-Difficulty|Business-And-Management|Digital-Marketing
+34162,"Adobe XD: UI/UX Design 2 - Udemy",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+34319,"The Science of Stars and Galaxies 2 - University of Arizona",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+34405,"Social Media Strategy Certification - HubSpot Academy",Course-Difficulty|Business-And-Management|Digital-Marketing
+34437,"The Science of Well-Being 2 - Yale University",Arts-And-Humanities|Math-And-Logic
+34520,"Graphic Design Specialization 2 - California Institute of the Arts",Course-Difficulty|Business-And-Management|Arts-And-Humanities
+35836,"Digital Painting: From Beginner to Master - Udemy",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+36401,"Design Thinking Fundamentals 2 - University of Virginia",Arts-And-Humanities|Language-Learning|Health|Physics-And-Astronomy
+36517,"Linear Algebra: Vectors and Spaces 2 - Khan Academy",Math-And-Logic|Physics-And-Astronomy
+36519,""SwiftUI Masterclass: iOS Development with Swift" by Robert Petras",Course-Difficulty|Computer-Science|Physics-And-Astronomy
+36529,""Full Stack Web Development Bootcamp 2022" by Dr. Angela Yu",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+36708,"Digital Painting: From Beginner to Master 2 - Udemy",Business-And-Management|Design|Arts-And-Humanities
+37380,"SEO 2022: Complete SEO Training + SEO for WordPress Websites",Course-Difficulty|Health|Digital-Marketing
+37384,"UX & Web Design Master Course 2- Udemy",Arts-And-Humanities
+37386,"SEO 2021: Complete SEO Training + SEO for WordPress Websites",Course-Difficulty|Digital-Marketing
+37727,"Quantum Mechanics for Everyone 2 - Georgetown University",Course-Difficulty|Math-And-Logic|Physics-And-Astronomy
+37729,"CBrand and Product Management - IE Business School",Design|Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+37733,""Complete PHP Course with Bootstrap3 CMS System & Admin Panel" by Sebastian Sulinski",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+37741,""Vue - The Complete Guide (w/ Router, Vuex, Composition API)" by Maximilian Schwarzmüller",Computer-Science|Math-And-Logic
+37830,"SEO 2020: Complete SEO Training + SEO for WordPress Websites",Course-Difficulty|Business-And-Management|Design|Language-Learning|Digital-Marketing
+38038,"Brand and Product Management 2 - IE Business School",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+38061,"Logo Design in Adobe Illustrator 2 - Udemy",Arts-And-Humanities|Computer-Science|Social-Science|Physics-And-Astronomy
+39183,"Data Science Math Skills 2 - Duke University",Math-And-Logic|Electrical-And-Mechanical-Engineering
+39292,"Data Science Math Skills 3 - Duke University",Computer-Science|Math-And-Logic
+39446,"Managing Your Health - University of Toronto",Health|Physics-And-Astronomy
+40278,"JMathematics for Machine Learning: Linear Algebra 2 - Imperial College London",Course-Difficulty|Math-And-Logic
+40583,"Advanced Linear Models for Data Science 3 - Microsoft",Math-And-Logic|Physics-And-Astronomy
+40629,"Advanced Linear Models for Data Science 4- Microsoft",Math-And-Logic|Electrical-And-Mechanical-Engineering
+40732,"Advanced Linear Models for Data Science 5 - Microsoft",Business-And-Management|Math-And-Logic|Health|Physics-And-Astronomy
+40815,"Japanese In Context - Elementary Japanese Course",Business-And-Management|Language-Learning|Physics-And-Astronomy
+40819,"Complex Variables with Applications 3",Math-And-Logic|Electrical-And-Mechanical-Engineering
+40826,"Advanced Linear Models for Data Science 2 - Microsoft",Math-And-Logic|Electrical-And-Mechanical-Engineering
+41285,"Functional Programming in Scala Specialization - École Polytechnique Fédérale de Lausanne",Computer-Science|Math-And-Logic|Electrical-And-Mechanical-Engineering
+41566,"German for Beginners",Business-And-Management|Environmental-Science|Language-Learning
+41569,"Chinese for Beginners - Peking University",Course-Difficulty|Business-And-Management|Math-And-Logic|Language-Learning|Physics-And-Astronomy
+41997,"Exploring Time and Space: Gravitational Waves 2 - University of Arizona",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+42011,"Design and Development of Educational Technology - University of British Columbia",Arts-And-Humanities|Computer-Science
+42723,"Global Health - University of Geneva",Health
+42738,"Spanish Tenses Simplified: Master the Main Tenses FAST!",Course-Difficulty|Language-Learning|Health
+43928,"Japanese In Context - Elementary Japanese Course by Udemy",Course-Difficulty|Language-Learning|Digital-Marketing|Physics-And-Astronomy
+44022,"Interaction Design Specialization - University of California, San Diego (UCSD)",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+44191,"Digital Marketing Strategy - The University of Edinburgh",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+44195,"Interaction Design Specialization 2 - University of California, San Diego (UCSD)",Arts-And-Humanities|Math-And-Logic
+44199,"Advanced Linear Models for Data Science 3 - Microsoft",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+44555,"Ultimate Linear Algebra Guide 3 - Udemy",Math-And-Logic|Electrical-And-Mechanical-Engineering|Physics-And-Astronomy
+44665,"Advanced Linear Models for Data Science 3 - Microsoft",Computer-Science|Math-And-Logic|Social-Science
+44761,"Advanced Linear Models for Data Science 4 - Microsoft",Computer-Science|Math-And-Logic|Social-Science
+44840,"Design and Development of Educational Technology 2 - University of British Columbia",Arts-And-Humanities
+44972,"Design and Development of Educational Technology 3 - University of British Columbia",Arts-And-Humanities|Health
+44974,"Ultimate Linear Algebra Guide 4 - Udemy",Math-And-Logic|Physics-And-Astronomy
+45081,"Understanding Anxiety, Depression, and CBT - University of Reading",Language-Learning|Health|Physics-And-Astronomy
+45186,"Entrepreneurship: The Startup Guide for Finding Your Unique Idea 2",Course-Difficulty|Business-And-Management|Physics-And-Astronomy
+45431,"Entrepreneurship: The Startup Guide for Finding Your Unique Idea 3",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+45447,"Fundamentals of Math - RIT (Rochester Institute of Technology)",Math-And-Logic|Social-Science|Physics-And-Astronomy
+45499,"Introduction to Astrophysics 2 - École Polytechnique Fédérale de Lausanne",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+45501,"Mathematics for Computer Science 2 - Stanford University",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+45517,"Introduction to Typography - California Institute of the Arts 2",Design|Environmental-Science|Arts-And-Humanities
+45666,"Introduction to Typography 3 - California Institute of the Arts",Arts-And-Humanities
+45668,"Italian Language and Culture for Beginners 3",Math-And-Logic|Language-Learning|Electrical-And-Mechanical-Engineering
+45672,"Introduction to Logic 2 - Stanford University",Business-And-Management|Arts-And-Humanities|Math-And-Logic|Language-Learning|Electrical-And-Mechanical-Engineering
+45720,"Introduction to Logic 3 - Stanford University",Arts-And-Humanities|Math-And-Logic
+45722,"Business Foundations Specialization - University of Pennsylvania",Course-Difficulty|Business-And-Management|Language-Learning
+45728,"AI in Digital Art - Udemy",Arts-And-Humanities
+45880,""Git Complete: The definitive, step-by-step guide to Git" by Jason Taylor",Data-Science
+46335,""Flutter & Dart - The Complete Guide [2022 Edition]" by Maximilian Schwarzmüller",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+46530,"Business Model Innovation - Udemy 3",Course-Difficulty|Business-And-Management|Digital-Marketing
+46578,"Drawing as Self-Discovery 2 - Mari Andrew (Skillshare)",Business-And-Management|Arts-And-Humanities|Math-And-Logic
+46723,"Mechanics - University of New South Wales",Math-And-Logic|Physics-And-Astronomy
+46965,"Mechanics 2 - University of New South Wales",Course-Difficulty|Arts-And-Humanities|Health|Physics-And-Astronomy
+46970,"The Science of Happiness - University of California, Berkeley",Course-Difficulty|Arts-And-Humanities
+46972,"Speak English With Confidence: English Speaking Course",Course-Difficulty|Arts-And-Humanities|Language-Learning
+46976,"Algebra III: Statistics - Khan Academy",Arts-And-Humanities|Math-And-Logic|Language-Learning|Electrical-And-Mechanical-Engineering
+47044,"Mechanics 3 - University of New South Wales",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+47099,"Algebra II: Statistics - Khan Academy",Math-And-Logic
+47200,"Advanced Mechanics - University of Florida",Course-Difficulty|Physics-And-Astronomy
+47518,"Illustration and Lettering - Martina Flor (Skillshare)",Arts-And-Humanities
+47610,"Algebra III: Advanced Statistics",Math-And-Logic|Language-Learning|Social-Science|Electrical-And-Mechanical-Engineering
+47629,"Linear Algebra 3: Vectors and Spaces - Khan Academy",Math-And-Logic
+47997,"Illustration and Lettering 2 - Martina Flor (Skillshare)",Business-And-Management|Arts-And-Humanities|Digital-Marketing|Physics-And-Astronomy
+48043,"Spanish for Beginners 2 - University of California, Davis",Math-And-Logic|Language-Learning|Electrical-And-Mechanical-Engineering
+48082,"Spanish for Beginners 3 - University of Florida",Arts-And-Humanities|Math-And-Logic|Language-Learning|Electrical-And-Mechanical-Engineering
+48304,"Foundations of Business Strategy 2 - University of Virginia",Business-And-Management|Math-And-Logic|Physics-And-Astronomy
+48385,"The Art of Music Production - Berklee College of Music",Arts-And-Humanities
+48394,"Quantum Physics I and Quantum Physics II - MIT",Math-And-Logic|Language-Learning|Physics-And-Astronomy
+48516,"Quantum Physics I and Quantum Physics II - Havard",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+48738,"Mechanics of Materials I - MIT",Math-And-Logic|Physics-And-Astronomy
+48774,"Introduction to Waves - Udemy",Course-Difficulty|Business-And-Management|Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+48780,"Introduction to Waves 2- Udemy",Math-And-Logic|Social-Science|Digital-Marketing|Physics-And-Astronomy
+48783,"Data Science and Machine Learning Bootcamp with Matlab 2 - University of São Paulo",Math-And-Logic
+48877,"Science of Exercise - University of Colorado Boulder",Computer-Science|Health|Physics-And-Astronomy
+49272,"Complete Physics Course 2 - Udemy",Course-Difficulty|Business-And-Management|Physics-And-Astronomy
+49274,"Global Environmental Management - Technical University of Denmark (DTU)",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+49278,""The Science of the Solar System" by California Institute of Technology",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+49286,"Shakespeare: On the Page and in Performance - Wellesley College",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+49530,""The Science of the Solar System 2" by California Institute of Technology",Course-Difficulty|Business-And-Management|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+49649,""Global Business Strategy" by the University of London",Course-Difficulty|Business-And-Management|Language-Learning
+49651,""Mathematics for Machine Learning 3" by Imperial College London",Course-Difficulty|Math-And-Logic
+50068,""Introduction to Mathematical Thinking 2" by Stanford University",Math-And-Logic
+50794,"Data Science Math Skills 2 - Duke University",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+50872,""Fashion as Design 5" by The Museum of Modern Art",Design|Environmental-Science|Math-And-Logic
+51077,""The Science of the Solar System 3" by MIT",Course-Difficulty|Language-Learning|Physics-And-Astronomy
+51084,"Music and Lyrics (2007)",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+51086,"Linear Algebra for Beginners: Open Doors to Great Careers 2",Math-And-Logic|Social-Science|Physics-And-Astronomy
+51255,"Hot Fuzz (2007)",Course-Difficulty|Arts-And-Humanities|Computer-Science|Social-Science
+51412,"Introduction to Electricity and Magnetism - Duke University",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+51540,"Introduction to Electricity and Magnetism 2 - Duke University",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+51662,""German for Beginners 3" by the University of California, Davis",Course-Difficulty|Language-Learning
+51935,"Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading",Course-Difficulty|Math-And-Logic|Physics-And-Astronomy
+52245,"Digital Illustration: Learn to Use Procreate",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+52281,"Physics: Advanced Level Problems and Solutions - Udemy",Course-Difficulty|Computer-Science|Health|Digital-Marketing|Physics-And-Astronomy
+52287,""Fashion as Design 4" by The Museum of Modern Art",Course-Difficulty|Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Digital-Marketing
+52328,"Physics: Advanced Level Problems and Solutions 2 by MIT",Business-And-Management|Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+52458,"Physics I - Massachusetts Institute of Technology (MIT)",Math-And-Logic|Physics-And-Astronomy
+52604,"Physics II - Massachusetts Institute of Technology (MIT)",Computer-Science|Math-And-Logic|Social-Science|Physics-And-Astronomy
+52722,"Physics - Introduction to Waves, Complete Physics Course 2",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+52973,"The Science of Happiness - MIT",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+52975,"The Science of Happiness 2 - Havard",Arts-And-Humanities|Math-And-Logic
+53000,""The Science of the Solar System" by California Institute of Technology",Health|Digital-Marketing|Physics-And-Astronomy
+53121,""Fashion as Design 5" by The Museum of Modern Art",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Language-Learning
+53125,"Spanish for Successful Communication in Healthcare Settings",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Language-Learning
+53322,""Quantum Mechanics for Everyone - Cornell University",Computer-Science|Physics-And-Astronomy
+53464,"Business and Data Analysis Skills - Cornell University",Course-Difficulty|Business-And-Management|Digital-Marketing
+53519,"Essential Mathematics for Artificial Intelligence - Cornell University",Course-Difficulty|Business-And-Management|Computer-Science|Health|Physics-And-Astronomy
+53894,"Essential Mathematics for Artificial Intelligence 2 - Cornell University",Data-Science|Math-And-Logic
+53953,"Advanced Linear Models for Data Science 2 - Microsoft",Math-And-Logic|Health|Physics-And-Astronomy
+53972,"Understanding Einstein: The Special Theory of Relativity 2 - Stanford University",Course-Difficulty|Business-And-Management|Computer-Science|Physics-And-Astronomy
+53993,"Evan Almighty (2007)",Arts-And-Humanities|Language-Learning
+53996,"Understanding Einstein: The Special Theory of Relativity 3 - Stanford University",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+54001,"Arabic Language and Culture: Beginner - Qatar University",Business-And-Management|Math-And-Logic|Language-Learning
+54004,"Global Environmental Management - Technical University of Denmark (DTU)",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+54190,""Introduction to Mathematical Thinking" by Stanford University",Math-And-Logic|Language-Learning|Electrical-And-Mechanical-Engineering
+54259,"The Modern World, Part One - University of Virginia",Business-And-Management|Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+54272,""Fashion" by MIT",Design|Arts-And-Humanities
+54286,"Mechanics of Materials III - Georgia Institute of Technology",Course-Difficulty|Computer-Science|Physics-And-Astronomy
+54503,"The Modern World, Part Two - University of Virginia",Arts-And-Humanities
+54881,""Data Science Specialization 3" by Johns Hopkins University",Data-Science
+54995,""Healthcare Innovation" by Cornell University",Course-Difficulty|Health|Digital-Marketing
+54997,""Introduction to Mathematical Thinking" by Brown University",Course-Difficulty|Computer-Science|Math-And-Logic
+54999,"Modern and Contemporary Art and Design 2 - The Museum of Modern Art",Course-Difficulty|Arts-And-Humanities|Computer-Science
+55052,"Fundamentals of Electric Power Engineering - Delft University of Technology",Math-And-Logic|Electrical-And-Mechanical-Engineering
+55118,"Introduction to Electronics 2 - Rice university",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+55232,"Quantum Mechanics and Quantum Computation - Rice university",Course-Difficulty|Health|Digital-Marketing|Physics-And-Astronomy
+55247,"Logic and Computational Thinking 2 - Microsoft",Course-Difficulty|Business-And-Management|Math-And-Logic
+55269,"Logic and Computational Thinking 3 - Microsoft",Business-And-Management|Arts-And-Humanities|Math-And-Logic
+55276,"Logic and Computational Thinking - Cornell university",Math-And-Logic|Physics-And-Astronomy
+55282,"Epidemiology: The Basic Science of Public Health 2 - University of North Carolina at Chapel Hill",Health|Physics-And-Astronomy
+55290,"Full Stack Web and Multiplatform Mobile App Development Specialization - The Hong Kong University of Science and Technology",Computer-Science|Math-And-Logic|Social-Science
+55363,"Full Stack Web and Multiplatform Mobile App Development Specialization - University of Rochester",Computer-Science|Math-And-Logic
+55442,""Design" by University of Rochester",Design|Math-And-Logic
+55721,"Blockchain Basics - University at Buffalo",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+55765,"Blockchain Basics - University of Rochester",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+55768,"Graphic Design Specialization - University of Rochester",Design|Arts-And-Humanities
+55820,"Intro to SQL: Querying and managing data - Khan Academy",Computer-Science|Math-And-Logic
+55830,"Introduction to Classical Music - University of Rochester",Arts-And-Humanities
+56145,""Healthcare Innovation and Entrepreneurship" by Arizona State University",Health|Digital-Marketing
+56152,"Archaeology's Dirty Little Secrets - ASU",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+56171,""Environmental Science and Sustainability 2" by The University of Illinois at Urbana-Champaign",Business-And-Management|Environmental-Science|Language-Learning
+56174,""Global Health: An Interdisciplinary Overview - University of Rochester",Course-Difficulty|Health|Digital-Marketing|Physics-And-Astronomy
+56251,"Design Thinking for Innovation 2 - University of Rochester",Design|Arts-And-Humanities|Digital-Marketing
+56367,"Critical Thinking in Global Challenges - The University of Florida",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+56587,"Critical Thinking in Global Challenges - The University of Rochester",Arts-And-Humanities|Math-And-Logic
+56757,""The Science of the Solar System" by ASU",Math-And-Logic|Health|Physics-And-Astronomy
+56775,""Global Business Strategy" by the University of South Florida",Course-Difficulty|Business-And-Management
+56782,"Essential Mathematics for Artificial Intelligence - Rice University",Math-And-Logic
+56941,"Indigenous Canada - University of Alberta",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+56949,"Cultural Competence 2 - Purdue University",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+57368,"A Life of Happiness and Fulfillment - Rice University",Course-Difficulty|Social-Science|Digital-Marketing|Physics-And-Astronomy
+57504,"Cultural Competence 3 - Purdue University",Design|Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering|Digital-Marketing
+57640,""Global Business Strategy 2" by the Rice University",Course-Difficulty|Business-And-Management|Language-Learning|Digital-Marketing
+57669,"Mindshift - McMaster University",Arts-And-Humanities|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+58025,"Calculus: Single Variable - University of Pennsylvania",Course-Difficulty|Business-And-Management|Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+58047,"Understanding International Relations Theory - National Research University Higher School of Economics",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+58156,"Understanding International Relations Theory - Udemy",Arts-And-Humanities
+58293,"Quantum Physics: What Everyone Needs to Know - Udemy",Business-And-Management|Electrical-And-Mechanical-Engineering|Physics-And-Astronomy
+58295,"Physics 101: Introduction to Mechanics - ASU",Course-Difficulty|Computer-Science|Physics-And-Astronomy
+58559,"Calculus: Single Variable 2 - University of Pennsylvania",Course-Difficulty|Computer-Science|Math-And-Logic
+58803,"Physics II: Electricity and Magnetism - ASU",Computer-Science|Math-And-Logic|Electrical-And-Mechanical-Engineering|Physics-And-Astronomy
+58998,"Complete Blender Guide 3 - Udemy",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+59022,"Complete Blender Guide 2- Udemy",Business-And-Management|Arts-And-Humanities
+59258,"Understanding International Relations Theory - National Research University Higher School of Economics",Arts-And-Humanities
+59315,"Mechanics of Materials III - Georgia Institute of Technology",Course-Difficulty|Business-And-Management|Digital-Marketing
+59369,"Reasoning Across the Disciplines 2 - Duke University",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+59387,"Reasoning Across the Disciplines 3 - Brown University",Business-And-Management|Math-And-Logic|Language-Learning
+59501,""Environmental Science and Sustainability 2" by The University of Illinois at Urbana-Champaign",Business-And-Management|Environmental-Science|Language-Learning
+59615,"Cultural Competence - Lehigh Univeristy",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Digital-Marketing
+59725,"Cultural Competence - Brown University",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+59784,"Cultural Competence 2 - Lehigh University",Course-Difficulty|Design|Environmental-Science|Arts-And-Humanities
+59900,"Cultural Competence 3 - Lehigh University",Arts-And-Humanities
+60040,"Content Marketing Certification 2 - HubSpot Academy",Course-Difficulty|Digital-Marketing
+60069,"Introduction to Design Thinking and People-Centered Design - Rice University",Business-And-Management|Design|Environmental-Science|Electrical-And-Mechanical-Engineering|Digital-Marketing
+60072,"Particle Physics - Boston University",Course-Difficulty|Physics-And-Astronomy
+60074,"Archaeology's Dirty Little Secrets - Boston Univeristy",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Computer-Science|Language-Learning
+60126,"Archaeology's Dirty Little Secrets - Villanova University",Course-Difficulty|Arts-And-Humanities
+60397,"Constitutional Struggles in the Muslim World - Boston University",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+60684,"Fundamentals of Electric Power Engineering - Boston University",Course-Difficulty|Math-And-Logic|Social-Science|Digital-Marketing|Physics-And-Astronomy
+60756,"Muslim World - Villanova University",Arts-And-Humanities
+60950,"Modern Japanese Architecture 2 - Tokyo University of the Arts",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+61024,"Modern Japanese Architecture 3 - Tokyo University of the Arts",Course-Difficulty|Arts-And-Humanities|Computer-Science
+61132,"Understanding International Relations Theory - Villanova University",Course-Difficulty|Business-And-Management|Arts-And-Humanities
+61240,""Healthcare Innovation and Entrepreneurship 4" by Villanova University",Math-And-Logic|Language-Learning|Health|Electrical-And-Mechanical-Engineering
+61323,"Understanding International Relations Theory 2 - Boston University",Arts-And-Humanities|Computer-Science|Math-And-Logic
+62155,"Social and Emotional Learning (SEL) - University of Toronto",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+62374,""Introduction to Electronics - Villanova University",Course-Difficulty|Math-And-Logic|Physics-And-Astronomy
+62849,""Data Structures and Algorithms" by Rice University",Course-Difficulty|Computer-Science
+62999,"Art & Activity: Interactive Strategies for Engaging with Art - Brown University",Course-Difficulty|Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+63082,"Robotics: Aerial Robotics 2 - University of Florida",Computer-Science|Math-And-Logic|Electrical-And-Mechanical-Engineering
+63113,"Introduction to Thermodynamics: Transferring Energy from Here to There - Rice University",Course-Difficulty|Business-And-Management|Physics-And-Astronomy
+63131,"Art & Activity: Interactive Strategies for Engaging with Art 2 - Brown University",Arts-And-Humanities
+63859,"Art & Activity: Interactive Strategies for Engaging with Art 3 - Brown University",Course-Difficulty|Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+63876,""Mathematical Thinking" by Boston University",Math-And-Logic
+63992,"Astrophysics: Exploring Exoplanets - University of Arizona",Math-And-Logic|Language-Learning|Electrical-And-Mechanical-Engineering|Physics-And-Astronomy
+64614,"Computer Graphics - Villanova University",Computer-Science|Math-And-Logic
+64716,"Algebra Basics - Boston University",Math-And-Logic
+64839,"Algebra Basics 2 - Boston University",Math-And-Logic
+64957,"Case of Benjamin logic and theorem - Villanova University",Math-And-Logic|Language-Learning|Social-Science|Electrical-And-Mechanical-Engineering
+64969,"Mindshift - Michigan State University",Arts-And-Humanities
+64983,"Algebra Basics 3- Boston University",Math-And-Logic|Physics-And-Astronomy
+65088,""Environmental Science" by Michigan State University",Business-And-Management|Environmental-Science|Arts-And-Humanities
+65230,"Cultural Diversity and the City - Villanova University",Arts-And-Humanities|Math-And-Logic
+65261,""Fashion and Design 2" by Michigan State University",Business-And-Management|Design|Environmental-Science|Language-Learning
+65514,"Algebra Basics 4 - Boston University",Course-Difficulty|Math-And-Logic
+66097,"Logo Design with Draplin: Secrets of Shape, Type, and Color - Michigan State University",Design|Language-Learning|Physics-And-Astronomy
+66203,"Algebra Basics 5 - Boston University",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+66934,"Nutrition and Cancer - Michigan State University",Arts-And-Humanities|Math-And-Logic|Digital-Marketing
+67087,"Art and Visual Culture: Medieval to Modern - The Open University",Arts-And-Humanities
+67255,"Computational Thinking using Python - ASU",Computer-Science|Math-And-Logic|Social-Science|Physics-And-Astronomy
+67734,"Art and Visual Culture: Medieval to Modern 2 - The Open University",Arts-And-Humanities|Math-And-Logic
+67923,"Computational Thinking using Python 2 - ASU",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+68135,"Art and Visual Culture: Medieval to Modern 3 - The Open University",Arts-And-Humanities|Math-And-Logic
+68157,"Computational Thinking using Python - Michigan State University",Course-Difficulty|Math-And-Logic
+68237,"Mathematics for Deep Learning - Michigan State University",Math-And-Logic|Social-Science|Digital-Marketing|Physics-And-Astronomy
+68319,"Quantum Physics I - Boston University",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+68358,""Global Business Strategy 2" by the University of London",Course-Difficulty|Business-And-Management|Digital-Marketing
+68554,"Mathematics for Deep Learning - Michigan State University",Computer-Science|Math-And-Logic|Social-Science|Physics-And-Astronomy
+68791,"Quantum Physics II - Boston University ",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+68793,"Art History Basics 1 - University of Rochester",Course-Difficulty|Arts-And-Humanities
+68954,"Climate Change and Health - Yale University",Business-And-Management|Design|Environmental-Science|Math-And-Logic
+69122,"Art History Basics 2 - University of Rochester",Arts-And-Humanities|Computer-Science
+69406,"Art History Basics 3 - University of Rochester",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+69481,"Basic Physics - Villanova University",Course-Difficulty|Math-And-Logic|Physics-And-Astronomy
+69526,"Make sure customers find you online: Marketing Strategies 2 - Google Digital Garage",Course-Difficulty|Business-And-Management|Digital-Marketing
+69644,"Challenges in Environmental Science 2 - The Open University",Course-Difficulty|Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+69757,"History of Animation 2 - Villanova University",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+69784,"History of Animation 3 - Villanova University",Arts-And-Humanities
+69844,""Global Business Strategy 3" by University of Rochester",Business-And-Management|Language-Learning|Social-Science|Electrical-And-Mechanical-Engineering
+69951,"Precalculus - University of FLorida",Math-And-Logic|Language-Learning
+70183,"Precalculus 2 - University of FLorida ",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+70286,"Understanding Einstein: The Special Theory of Relativity - Stanford University",Social-Science|Digital-Marketing|Physics-And-Astronomy
+70293,"Julie & Julia art courses by MIT",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+71057,"Digital Marketing Specialization - University of Rochester",Business-And-Management|Design|Digital-Marketing
+71264,"Environmental Science and Sustainability MicroMasters Program - University of California, Irvine",Design|Environmental-Science|Language-Learning
+71464,"Visual Effects for Guerrilla Filmmakers - Norwich University of the Arts",Arts-And-Humanities|Math-And-Logic
+71530,"Gravity! The Big Bang, Black Holes and Gravitational Waves - Paris Diderot University",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+71535,"Japanese Culture Through Rare Books - Keio University",Course-Difficulty|Arts-And-Humanities|Health
+71745,""AP Environmental Science - Khan Academy" by Stanford University",Business-And-Management|Environmental-Science|Math-And-Logic|Language-Learning
+71899,"Museums as Research Institutions 3 - University of Rochester",Design|Arts-And-Humanities|Math-And-Logic
+72011,"Mathematics for Machine Learning Specialization - Villanova University",Math-And-Logic|Electrical-And-Mechanical-Engineering
+72226,"The Nitrogen and Phosphorus Cycles - Villanova University",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Computer-Science
+72378,"The Science of Nuclear Energy - University of Pittsburgh",Course-Difficulty|Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+72641,"Mathematics for Deep Learning and Machine Learning - Boston University",Math-And-Logic
+72737,"Art & Ideas: Teaching with Themes - The Museum of Modern Art",Design|Environmental-Science|Language-Learning|Electrical-And-Mechanical-Engineering
+72998,"Financial Markets and Investment Strategy Specialization - MIT",Course-Difficulty|Business-And-Management|Digital-Marketing
+73017,"Astrophysics: Exploring Time and Space - University of California, Berkeley",Course-Difficulty|Computer-Science|Social-Science|Physics-And-Astronomy
+73321,"Business Analysis and Process Management Specialization - Rutgers, The State University of New Jersey",Course-Difficulty|Business-And-Management|Math-And-Logic
+74458,"Exoplanets - University of Geneva",Math-And-Logic|Social-Science|Physics-And-Astronomy
+74789,"Business Analysis Foundations - LinkedIn Learning",Business-And-Management|Language-Learning
+76077,"Natural Disasters - University of Illinois at Urbana-Champaign",Arts-And-Humanities|Digital-Marketing
+76093,"Complete Business Intelligence with SSIS, SSAS, and SSRS - Udemy",Business-And-Management|Design|Environmental-Science|Language-Learning
+76175,"Multivariable Calculus - Boston university",Course-Difficulty|Business-And-Management|Math-And-Logic|Language-Learning
+76251,"The Modern and the Postmodern - Wesleyan University",Course-Difficulty|Arts-And-Humanities
+76293,"The Modern - Wesleyan University",Course-Difficulty|Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+77455,"The Postmodern 2 - Wesleyan University",Arts-And-Humanities|Data-Science
+77561,"Business Communication 2 - University of British Columbia",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+78105,"Leadership, Organizational Culture, and Change Specialization - HEC Paris",Course-Difficulty|Business-And-Management|Language-Learning|Electrical-And-Mechanical-Engineering
+78209,"Introduction to Classical Music  - University of Rochester",Arts-And-Humanities
+78469,"Introduction to Classical Music 2 - University of Rochester",Course-Difficulty|Arts-And-Humanities|Physics-And-Astronomy
+78499,"Leadership, Organizational Culture, and Change Specialization 2 - HEC Paris",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Language-Learning
+78772,"Control of Mobile Robots - University of Rochester",Language-Learning|Electrical-And-Mechanical-Engineering|Physics-And-Astronomy
+79057,"Super-Earths and Life - Harvard University",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+79091,"Environmental Science: Human Impact in the Natural Environment - The University of Queensland",Design|Environmental-Science|Arts-And-Humanities|Computer-Science
+79132,"Super-Earths and Life 2 - Harvard University",Course-Difficulty|Computer-Science|Math-And-Logic|Social-Science|Digital-Marketing|Physics-And-Astronomy
+79134,"Introduction to Ecosystems - The Open University",Arts-And-Humanities
+79139,"Leadership, Organizational Culture, and Change Specialization 3 - HEC Paris",Course-Difficulty|Business-And-Management|Environmental-Science|Arts-And-Humanities|Language-Learning
+79293,"Astronomy I: The Solar System - Massachusetts Institute of Technology (MIT)",Course-Difficulty|Physics-And-Astronomy
+79592,"Greek and Roman Mythology 2 - University of Pennsylvania",Course-Difficulty|Arts-And-Humanities
+79695,"Strategic Management and Innovation Specialization - Villanova University",Course-Difficulty|Business-And-Management|Physics-And-Astronomy
+79702,"Japanese for Beginners - University of FLorida",Course-Difficulty|Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+80219,"Leadership, Organizational Culture, and Change Specialization 4 - HEC Paris",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Computer-Science|Physics-And-Astronomy
+80463,"Pre-Algebra 2 - Villanova University",Math-And-Logic
+80489,"Pre-Algebra 3 - Villanova University",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+80549,"Mechanics of Materials 2 - MIT",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+80906,""Data Science Specialization 2" by the Case Western Reserve University ",Data-Science
+81229,"Digital Illustration: Learn to Use Procreate - Udemy",Course-Difficulty|Arts-And-Humanities
+81537,"Digital Illustration: Learn to Use Procreate 2 - Udemy",Arts-And-Humanities
+81562,"Introduction to Solar Systems Astronomy 2 - Arizona State University",Business-And-Management|Math-And-Logic|Physics-And-Astronomy
+81564,"Climate Science and Policy 2 - Harvard University",Course-Difficulty|Design|Environmental-Science|Arts-And-Humanities|Digital-Marketing
+81591,"Introduction to Solar Systems Astronomy 3 - ASU", The State University of New Jersey",Math-And-Logic|Physics-And-Astronomy
+81834,"Business Analysis Foundations 2 - Emory University",Course-Difficulty|Business-And-Management|Language-Learning
+81845,""Mathematical Thinking for data science" by Emory University",Math-And-Logic
+81847,"Global System for Sustainable Development 1 - Emory University",Design|Environmental-Science|Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+81932,""Mathematical Thinking for data science 2" by Emory University",Math-And-Logic
+82461,"Leadership, Organizational Culture, and Change Specialization 5- HEC Paris",Course-Difficulty|Business-And-Management|Digital-Marketing
+83134,"Art & Ideas: Teaching with Themes - Emory University",Arts-And-Humanities|Health
+83349,"Introduction to Solar Systems Astronomy 4 - Arizona State University",Course-Difficulty|Arts-And-Humanities|Computer-Science|Language-Learning|Physics-And-Astronomy
+84152,"Solar Systems Astronomy - Case Western Reserve University", The State University of New Jersey",Digital-Marketing|Physics-And-Astronomy
+84374,"Introduction to POP Music - Emory University",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+84392,"Solar Systems Astronomy 4 - Case Western Reserve University",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+84772,"Indigenous Asia - Hong Kong University",Business-And-Management|Arts-And-Humanities|Digital-Marketing
+84944,"Indigenous Asia 2 - Hong Kong University",Course-Difficulty|Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+84954,"Marketing Analytics: Data Tools and Techniques - Emory University",Electrical-And-Mechanical-Engineering|Digital-Marketing|Physics-And-Astronomy
+85414,"Introduction to Physical Chemistry - University of Manchester",Course-Difficulty|Math-And-Logic|Social-Science|Digital-Marketing|Physics-And-Astronomy
+85510,"Business English: Networking 2 - Emory University",Course-Difficulty|Language-Learning|Physics-And-Astronomy
+86190,"Social Psychology - Emory University",Course-Difficulty|Business-And-Management|Social-Science|Physics-And-Astronomy
+86332,"Business English: Networking 3 - Emory University",Course-Difficulty|Business-And-Management|Math-And-Logic|Language-Learning
+86644,"Calculus 1: Fundamental Principles of Derivatives and Integrals - Udemy",Course-Difficulty|Computer-Science|Math-And-Logic|Physics-And-Astronomy
+86833,"Indigenous Asia 3 - Hong Kong University",Arts-And-Humanities
+86880,"Business English: Networking 3 - University of Washington",Course-Difficulty|Business-And-Management|Language-Learning
+86882,"Indigenous Asia 4 - Hong Kong University",Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+86911,"Indigenous Asia 5 - Hong Kong University",Arts-And-Humanities
+87222,"Indigenous Asia 6 - Hong Kong University",Course-Difficulty|Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+87232,"Introduction to Sociology - Princeton University",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+87306,"Introduction to Sociology 2 - Princeton University",Social-Science|Digital-Marketing|Physics-And-Astronomy
+87430,"Fundamentals of digital marketing 3 - University of Florida",Course-Difficulty|Business-And-Management|Digital-Marketing
+87520,"Fundamentals of digital marketing 2 - University of Florida",Course-Difficulty|Business-And-Management|Digital-Marketing
+87869,"Indigenous Asia 7 - Hong Kong University",Arts-And-Humanities|Computer-Science
+88125,"Introduction to Sociology 3 - Princeton University",Course-Difficulty|Business-And-Management|Math-And-Logic|Language-Learning|Social-Science
+88129,"Gravity! The Big Bang, Black Holes and Gravitational Waves - MIT",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+88140,"Gravity! The Big Bang, Black Holes and Gravitational Waves - TCU",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+88163,"Indigenous Asia 8 - Hong Kong University",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+88405,"Art History Basics Concepts - TCU",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+88744,"Discrete Mathematics: An Open Introduction 4 - Coursera",Course-Difficulty|Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+88785,"Indigenous Asia 9 - Hong Kong University",Arts-And-Humanities
+88810,"Discrete Mathematics: An Open Introduction 2 - Coursera",Math-And-Logic
+89470,"Black Holes and Gravitational Waves - TCU",Digital-Marketing|Physics-And-Astronomy
+89492,"Discrete Mathematics: An Open Introduction 3 - Coursera",Math-And-Logic
+89745,"Strategic Business Analytics Specialization - Havard",Course-Difficulty|Business-And-Management|Digital-Marketing
+89774,"Discrete Mathematics: An Open Introduction 4 - Coursera",Math-And-Logic
+89864,"Indigenous Asia 10 - Hong Kong University",Arts-And-Humanities|Math-And-Logic
+89904,"Indigenous Asia 11 - Hong Kong University",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+90405,"Intro to HTML and CSS Making webpages 2 - Khan Academy",Computer-Science|Digital-Marketing|Physics-And-Astronomy
+90746,"Understanding Society: Families - The Open University",Course-Difficulty|Design|Social-Science
+90866,"Climate Science and Policy - Emory University",Environmental-Science|Math-And-Logic|Social-Science
+91077,"Cultural Intelligence 2 - University of Iowa",Arts-And-Humanities|Math-And-Logic
+91094,"Cultural Intelligence - University of Iowa",Environmental-Science|Arts-And-Humanities
+91485,"Business Strategies for Social Impact 2 - University of Pennsylvania",Course-Difficulty|Business-And-Management
+91500,"Business Strategies for Social Impact 6 - University of Pennsylvania",Course-Difficulty|Business-And-Management|Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+91529,"Business Strategies for Social Impact 3 - University of Pennsylvania",Course-Difficulty|Business-And-Management|Computer-Science
+91535,"Business Strategies for Social Impact 4 - University of Pennsylvania",Course-Difficulty|Business-And-Management|Math-And-Logic|Physics-And-Astronomy
+91542,"Understanding Society: Families 2 - The Open University",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Computer-Science|Social-Science|Physics-And-Astronomy
+91630,"Business Strategies for Social Impact 5 - University of Pennsylvania",Course-Difficulty|Business-And-Management|Physics-And-Astronomy
+91658,"Understanding Einstein: The Special Theory of Relativity - Havard",Math-And-Logic|Physics-And-Astronomy
+92259,"Introduction to Ecosystems - TCU",Arts-And-Humanities|Math-And-Logic
+92535,"English Grammar in Context 3 - TCU",Arts-And-Humanities
+93326,"English Grammar - Emory University",Course-Difficulty|Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+93363,"Business Foundations Specialization - Case Western Reserve University",Course-Difficulty|Business-And-Management|Digital-Marketing
+93510,"English Grammar in Context 2 - Emory University",Course-Difficulty|Arts-And-Humanities|Computer-Science
+93840,"Understanding Einstein: The Special Theory of Relativity 2 - Havard",Arts-And-Humanities|Health|Digital-Marketing|Physics-And-Astronomy
+94677,"US Government and Politics - Coursera",Arts-And-Humanities
+94777,"US Government and Politics 2 - Coursera",Course-Difficulty|Arts-And-Humanities|Digital-Marketing
+94864,""Healthcare Innovation" by Case Western Reserve University",Course-Difficulty|Health|Digital-Marketing
+94959,"The Art of Structural Engineering 3 - Princeton University",Arts-And-Humanities|Math-And-Logic|Electrical-And-Mechanical-Engineering
+95167,"Business Foundations Specialization 3 - Case Western Reserve University",Course-Difficulty|Business-And-Management|Design|Environmental-Science
+95441,"The Art of Structural Engineering: Vaults 2 - Princeton University",Arts-And-Humanities|Language-Learning
+95510,"Business Foundations Specialization 4 - Case Western Reserve University",Course-Difficulty|Business-And-Management|Digital-Marketing
+96079,"Strategic Management and Innovation Specialization 2 - Copenhagen Business School",Course-Difficulty|Business-And-Management|Physics-And-Astronomy
+96588,"The Art of Structural Engineering: Vaults 4 - Princeton University",Arts-And-Humanities
+96610,"SEO 2021 - Udemy",Course-Difficulty|Computer-Science|Digital-Marketing
+96737,"SEO 2022 - Udemy",Course-Difficulty|Digital-Marketing
+96821,"Calculus 2: Derivatives and Integrals - Coursera",Math-And-Logic|Electrical-And-Mechanical-Engineering
+96829,"Calculus 1: Fundamental Principles of Derivatives and Integrals - Coursera",Math-And-Logic
+97225,"The Art of Structural Engineering: Vaults 5 - Princeton University",Design|Environmental-Science|Arts-And-Humanities
+97304,"AP Physics 1: Algebra-Based - Khan Academy",Math-And-Logic|Physics-And-Astronomy
+97306,"Seven Psychopaths - Brown University",Arts-And-Humanities|Computer-Science
+97752,"Data and Tech in Advertising - Rice University",Math-And-Logic|Digital-Marketing
+97913,"Seven Psychopaths 2 -Brown University",Design|Arts-And-Humanities
+97921,"Seven Psychopaths 3 -Brown University",Arts-And-Humanities|Math-And-Logic
+97938,"Global Business Strategy 3 - Brown University",Business-And-Management|Math-And-Logic
+98243,"Spanish for Successful Communication in Healthcare Settings - Rice University",Business-And-Management|Design|Environmental-Science|Language-Learning
+98809,"Spanish for Successful Communication in Healthcare Settings 2 - Rice University",Business-And-Management|Language-Learning
+98961,"AP Physics 2: Algebra-Based - Khan Academy",Course-Difficulty|Math-And-Logic|Physics-And-Astronomy
+99007,"Global Social Change 2 - University of Florida",Arts-And-Humanities|Health|Electrical-And-Mechanical-Engineering
+99112,"Sequences, Time Series and Prediction - DeepLeanring.AI",Course-Difficulty|Computer-Science|Physics-And-Astronomy
+99114,""Introduction to Mathematical Thinking" by Stanford University",Course-Difficulty|Math-And-Logic
+101864,"SEO 2019 - Udemy",Course-Difficulty|Business-And-Management|Digital-Marketing
+102123,"Grammar & Punctuation 2 - Khan Academy",Course-Difficulty|Arts-And-Humanities
+102125,"The Evolving Universe - Australian National University",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+102407,"Data Science Math Skills - Brown University",Math-And-Logic
+102445,""Entrepreneurship Specialization 2" by Brown University",Course-Difficulty|Business-And-Management|Digital-Marketing
+102481,"Grammar & Punctuation 2 - Rice University",Arts-And-Humanities
+102903,"Sequences, Time Series and Prediction 2 - Rice University",Computer-Science|Social-Science|Physics-And-Astronomy
+103042,"Productivity for Working from Home - TCU",Course-Difficulty|Business-And-Management|Language-Learning|Digital-Marketing
+103141,"Motion Graphics and Visual Effects: The Complete Guide - Brown University",Business-And-Management|Design|Arts-And-Humanities
+103228,"Motion Graphics and Visual Effects 2 - Brown University",Course-Difficulty|Business-And-Management|Digital-Marketing
+103249,"Introduction to Health and Wellness - Duke University",Course-Difficulty|Math-And-Logic|Health
+103253,"Mathematics for Computer Science - Duke University",Course-Difficulty|Math-And-Logic|Digital-Marketing
+103335,"Motion Graphics and Visual Effects 1- California Institute of the Arts",Design|Environmental-Science|Arts-And-Humanities
+103341,"Introduction to Healthcare - IBM",Course-Difficulty|Arts-And-Humanities|Digital-Marketing
+103772,"Digital Marketing Specialization - Brown University",Course-Difficulty|Business-And-Management|Language-Learning|Digital-Marketing
+104211,"Convolutional Neural Networks in TensorFlow - DeepLearning.AI",Arts-And-Humanities|Computer-Science
+104241,"Convolutional Neural Networks in TensorFlow 2 - DeepLearning.AI",Course-Difficulty|Arts-And-Humanities|Computer-Science
+104374,"Mathematics for Computer Science 2 - Duke University",Math-And-Logic|Language-Learning|Electrical-And-Mechanical-Engineering
+104841,"Digital Marketing Specialization - Duke University",Course-Difficulty|Digital-Marketing
+104879,"Criminal Justice and the Rule of Law - Villanova University",Math-And-Logic|Social-Science|Physics-And-Astronomy
+104913,"Advanced Machine Learning and Math Specialization 1 - National Research University Higher School of Economics",Course-Difficulty|Math-And-Logic
+105504,"Advanced MATLAB: Data Types and Time Series Analysis 1 - Udemy",Business-And-Management|Math-And-Logic|Physics-And-Astronomy
+105844,"Advanced Machine Learning and Math Specialization 2 - National Research University Higher School of Economics",Math-And-Logic
+106002,""Entrepreneurship Specialization" by the Wharton School, University of Pennsylvania",Course-Difficulty|Business-And-Management|Digital-Marketing
+106072,"Composition I - USF",Course-Difficulty|Business-And-Management|Language-Learning
+106100,"Advanced Machine Learning and Math Specialization 3 - National Research University Higher School of Economics",Math-And-Logic
+106487,"Business Analysis 1 - Duke University",Course-Difficulty|Business-And-Management|Digital-Marketing
+106489,"Process Management Specialization - Duke University",Business-And-Management|Language-Learning
+106696,"Motion Graphics and Visual Effects 3 - California Institute of the Arts",Business-And-Management|Design|Arts-And-Humanities|Language-Learning|Electrical-And-Mechanical-Engineering
+106782,"Advanced MATLAB: Data Types and Time Series Analysis 2 - Coursera",Arts-And-Humanities|Computer-Science|Math-And-Logic
+106916,"Advanced MATLAB: Data Types and Time Series Analysis 3 - Coursera",Computer-Science|Math-And-Logic
+106918,"Advanced MATLAB: Data Types and Time Series Analysis 4 - Coursera",Business-And-Management|Arts-And-Humanities|Math-And-Logic
+106920,"Advanced MATLAB: Data Types and Time Series Analysis 5 - Coursera",Math-And-Logic|Electrical-And-Mechanical-Engineering|Digital-Marketing
+107348,"Preventing and Managing Infections - Duke University",Arts-And-Humanities
+107406,"Advanced Data Science Specialization 2 - North Carolina State University",Course-Difficulty|Math-And-Logic|Digital-Marketing
+108190,"Process Management Specialization 2 - Duke University",Business-And-Management|Electrical-And-Mechanical-Engineering|Digital-Marketing
+108932,"The Nitrogen and Phosphorus Cycles - Khan Academy",Course-Difficulty|Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Language-Learning
+109374,"Understanding Obesity - University of Reading",Arts-And-Humanities|Math-And-Logic
+109487,"Excel: Advanced Formulas and Functions 2 - LinkedIn Learning",Digital-Marketing
+110102,"Business English: Marketing and Sales - Michigan State University",Course-Difficulty|Business-And-Management|Digital-Marketing
+110553,"Digital Marketing Nanodegree Program - Udacity",Course-Difficulty|Digital-Marketing
+111113,"Fundamentals of Immunology - Rice University",Arts-And-Humanities
+111360,"Digital Marketing Nanodegree Program 2 - Udacity",Course-Difficulty|Digital-Marketing
+111362,"Digital Marketing Nanodegree Program 3 - Udacity",Course-Difficulty|Business-And-Management|Digital-Marketing
+111364,"Digital Marketing Nanodegree Program 4 - Udacity",Course-Difficulty|Business-And-Management|Digital-Marketing
+111659,""The Importance of Sustainability" - Coursera",Course-Difficulty|Business-And-Management|Environmental-Science
+111743,"Social Media Marketing Mastery - Coursera",Arts-And-Humanities
+111759,"Digital Marketing Nanodegree Program 5 - Udacity",Course-Difficulty|Digital-Marketing
+111781,"Astrophysics: Exploring Time and Space 2 - Michigan State University",Course-Difficulty|Business-And-Management|Physics-And-Astronomy
+112138,"Natural Language Processing in TensorFlow - Coursera",Course-Difficulty|Arts-And-Humanities|Computer-Science
+112175,"Motion Graphics and Visual Effects: 4 - University of Rochester",Course-Difficulty|Business-And-Management|Design
+112183,"Probability & Statistics for Machine Learning & Data Science 1 - Coursera",Arts-And-Humanities|Math-And-Logic
+112290,"Probability & Statistics for Machine Learning & Data Science 2 - Coursera",Math-And-Logic
+112552,"Probability & Statistics for Machine Learning & Data Science 3 - Coursera",Math-And-Logic
+112556,"Linear Algebra for Machine Learning and Data Science 1 - Coursera",Math-And-Logic|Physics-And-Astronomy
+112623,"Social Media Marketing for Small Businesses 1 - Michigan State University",Digital-Marketing
+112852,"Social Media Marketing for Small Businesses 2 - Michigan State University",Course-Difficulty|Business-And-Management|Digital-Marketing
+114180,"Understanding Society: Families 3 - Michigan State University",Course-Difficulty|Social-Science|Digital-Marketing
+114662,"DeepLearning.AI Tensorflow Developer",Course-Difficulty
+114935,"Astrobiology and the Search for Extraterrestrial Life 3 - University of Edinburgh",Course-Difficulty|Social-Science|Digital-Marketing|Physics-And-Astronomy
+115149,"Astrobiology and the Search for Extraterrestrial Life 2 - University of Edinburgh",Course-Difficulty|Physics-And-Astronomy
+115210,"Linear Algebra for Machine Learning and Data Science 3 - Coursera",Course-Difficulty|Math-And-Logic
+115569,"Linear Algebra for Machine Learning and Data Science 2 - Coursera",Computer-Science|Math-And-Logic|Physics-And-Astronomy
+115617,"Responsive Website Development by University of South Florida",Course-Difficulty|Design|Arts-And-Humanities
+115713,"Calculus for Machine Learning and Data Science 1 - Coursera",Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+116797,"Calculus for Machine Learning and Data Science 2 - Coursera",Math-And-Logic|Physics-And-Astronomy
+116823,"Cosmic Microwave Background - Universitat Autònoma de Barcelona",Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+116897,"Calculus for Machine Learning and Data Science 3 - Cousera",Arts-And-Humanities|Math-And-Logic|Physics-And-Astronomy
+117176,"Mathematics guid to Machine Learning and Deep Leanring 1 - Coursera",Math-And-Logic|Electrical-And-Mechanical-Engineering
+117529,"Mathematics guid to Machine Learning and Deep Leanring 2 - Coursera",Course-Difficulty|Business-And-Management|Math-And-Logic|Digital-Marketing|Physics-And-Astronomy
+117590,"Deep Leanring - Coursera",Arts-And-Humanities|Computer-Science
+118696,"Understanding IELTS: Techniques for English Language Tests",Business-And-Management|Language-Learning
+119141,"Writing Professional Emails and Memos - The Hong Kong University of Science and Technology",Course-Difficulty|Arts-And-Humanities
+119145,"Writing Professional Emails and Memos 2 - The Hong Kong University of Science and Technology",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Computer-Science
+120466,"Practical Astronomy with a Telescope: Getting Started 2 - Udemy",Course-Difficulty|Physics-And-Astronomy
+122882,"Cosmic Microwave Background 2 - Universitat Autònoma de Barcelona",Course-Difficulty|Business-And-Management|Digital-Marketing|Physics-And-Astronomy
+122886,"Speak English Professionally: In Person, Online & On the Phone",Course-Difficulty|Business-And-Management|Language-Learning|Digital-Marketing
+122892,"Google Ads (AdWords) Certification Course 4 - Udemy",Course-Difficulty|Business-And-Management|Digital-Marketing
+122900,"Google Ads (AdWords) Certification Course 2 - Udemy",Course-Difficulty|Business-And-Management|Digital-Marketing
+122904,"Google Ads (AdWords) Certification Course 3 - Udemy",Course-Difficulty|Business-And-Management|Arts-And-Humanities|Digital-Marketing
+122906,"Google Ads (AdWords) Certification Course 5 - Udemy",Course-Difficulty|Business-And-Management|Digital-Marketing
+122912,"The Complete Digital Marketing Course 2 - Udemy",Course-Difficulty|Business-And-Management|Digital-Marketing
+122916,"The Complete Digital Marketing Course 3 - Udemy",Course-Difficulty|Business-And-Management|Digital-Marketing
+122918,"The Complete Digital Marketing Course 4 - Udemy",Course-Difficulty|Business-And-Management|Digital-Marketing
+122920,"The Complete Digital Marketing Course 5 - Udemy",Course-Difficulty|Digital-Marketing|Physics-And-Astronomy
+122922,"Digital Marketing Strategy: Profitable Sales Funnel 1 - Skillshare",Course-Difficulty|Business-And-Management|Digital-Marketing
+122924,"Digital Marketing Strategy: Profitable Sales Funnel 2 - Skillshare",Course-Difficulty|Business-And-Management|Language-Learning|Digital-Marketing
+122926,"Learn Spanish: Basic Spanish Vocabulary Specialization - University of California, Davis",Course-Difficulty|Business-And-Management|Language-Learning
+129354,"Machine Learning specialization - Coursera",Arts-And-Humanities|Computer-Science|Math-And-Logic|Electrical-And-Mechanical-Engineering
+134130,"Digital Marketing Strategy: Profitable Sales Funnel 3 - Skillshare",Business-And-Management|Math-And-Logic|Digital-Marketing
+134368,"Google IT Support Professional Certificate - Google",Course-Difficulty|Arts-And-Humanities|Computer-Science
+134393,"Introduction to Engineering: Imagineering and Prototyping - Delft University of Technology",Arts-And-Humanities|Electrical-And-Mechanical-Engineering
+134853,""Responsive Website Development and Design Specialization" by University of London",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Math-And-Logic|Language-Learning
+135133,"Social Media Strategy: Build Your Social Media Brand 1 - Skillshare",Business-And-Management|Digital-Marketing
+135143,"Spanish Vocabulary: Meeting People 2 - University of California, Irvin",Language-Learning
+135536,"Google IT Support Professional Certificate 2 - Google",Course-Difficulty|Computer-Science|Digital-Marketing
+135569,"Social Media Strategy: Build Your Social Media Brand 3 - Skillshare",Course-Difficulty|Business-And-Management|Digital-Marketing
+135887,"Graphic Design Specialization - University of Rochester",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+136020,"Algorithms Specialization - University of Rochester",Course-Difficulty|Business-And-Management|Computer-Science
+136864,"Learn French Language: Complete French Course - Beginners - King's College London",Course-Difficulty|Business-And-Management|Language-Learning|Digital-Marketing
+137857,"Learn Korean: The Complete Course for Beginners - Yonsei University",Business-And-Management|Math-And-Logic|Language-Learning
+138036,"Music Production - Berklee College of Music",Course-Difficulty|Business-And-Management|Arts-And-Humanities
+139385,"Advanced AI: Deep Reinforcement Learning in Python - Udemy",Business-And-Management|Math-And-Logic
+139644,"Introduction to Programming with MATLAB - Vanderbilt University",Computer-Science|Math-And-Logic|Social-Science
+140110,"Music Theory Comprehensive Complete Part 1 - Udemy",Arts-And-Humanities
+142488,"Introduction to Power Electronics - University of Colorado Boulder",Physics-And-Astronomy
+143355,"Russian for Beginners - National Research Tomsk State University",Course-Difficulty|Business-And-Management|Language-Learning
+148626,"Artificial Intelligence Nanodegree - Udacity",Math-And-Logic
+150548,"Artificial Intelligence Nanodegree 2 - Udacity",Course-Difficulty|Computer-Science|Math-And-Logic|Social-Science|Physics-And-Astronomy
+152077,"Moons - The Open University",Physics-And-Astronomy
+152081,"An Entire MBA in 1 Course: Award Winning Business School Prof 2",Course-Difficulty|Business-And-Management|Design|Environmental-Science|Arts-And-Humanities
+157296,"Music Theory Comprehensive Complete Part 2 - Udemy",Business-And-Management|Design|Arts-And-Humanities
+158238,"In the Night Sky: Orion - The Open University",Computer-Science|Social-Science|Physics-And-Astronomy
+159093,"Music Theory Comprehensive Complete Part 3 - Udemy",Course-Difficulty|Arts-And-Humanities|Physics-And-Astronomy
+164179,"Digital Marketing Strategy - Michigan State University",Digital-Marketing
+166461,"Music Theory Comprehensive Complete Part 4 - Udemy",Business-And-Management|Design|Environmental-Science|Arts-And-Humanities|Language-Learning
+166528,"Social Media Marketing Specialization 2 - Michigan State University",Course-Difficulty|Business-And-Management|Language-Learning|Digital-Marketing
+166643,"Advanced AI: Deep Reinforcement Learning in Python - Udemy",Math-And-Logic
+168250,""Healthcare Innovation and Entrepreneurship" by Duke University",Health
+168252,"The Strategy of Content Marketing 2 - University of California, Davis",Course-Difficulty|Digital-Marketing
+174055,"Mathematics for Machine Learning Specialization - Arizona State University",Course-Difficulty|Math-And-Logic|Physics-And-Astronomy
+176371,"Marketing in a Digital World 2 - University of Illinois at Urbana-Champaign",Digital-Marketing
+177765,""Graphic Design Specialization" by California Institute of the Arts",Business-And-Management|Design|Environmental-Science
+179819,"Social Media Marketing Specialization 2 - Michigan State University",Course-Difficulty|Business-And-Management|Language-Learning|Digital-Marketing
+187593,"Digital Marketing Specialization 2 - University of Illinois at Urbana-Champaign",Course-Difficulty|Arts-And-Humanities|Digital-Marketing
+
