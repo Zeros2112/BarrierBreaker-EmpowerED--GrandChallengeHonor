@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-TOKEN = 'MTE2MDk4MTA3Nzc1NDY0MjU5Mg.GWYj0Q.0gTHDckb-NgWMgGf-21AJnN9WEFW_JJqnDxS3c'
-GUILD_ID = '1160986809778569266'
+TOKEN = 'YOUR_BOT_TOKEN'
+GUILD_ID = 'YOUR_GUILD_ID'
 
 # Define your intents
 intents = discord.Intents.default()
