@@ -5,7 +5,8 @@ Build 2 recommennder system to help users (disabled people) find job:
 * resumes: Build a recommender system recommend jobs base on resume.
 
 ## How to run the code
-### 1. NEW_SKILLS
+[Link demo code](https://drive.google.com/drive/u/0/folders/1kQvQdptZ8s0W6BNUSZgYjxnxLT86ufgi)
+### 1. NEW_SKILLS 
 python app.py (remember to input those in indices.csv)
 
 ### 2. RESUMES 
