@@ -58,6 +58,7 @@ The Howde application is an integrated solution committed to reshaping the narra
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Entrepreneurial Response: Establish community-centric support systems through social enterprises focused on mentorship, counselling, and workplace integration programs through Howde networking.
 In conclusion, the principles of social entrepreneurship provide a powerful framework for addressing the barriers to employment for deaf and mute individuals. Through innovation, inclusivity, and a commitment to positive social impact, social entrepreneurship catalyzes for transformative change, fostering a future where employment opportunities are genuinely accessible.
 ## <ins> 3. Technology </ins> 
+[LINK DEMO CODE](https://drive.google.com/drive/u/0/folders/1H5s9JxBy_PpsUqKVb5LBKj6u20EFIJAc) 
 In this project, we strategically incorporate a subset of Artificial Intelligence (AI) known as Deep Learning, a field harnessing the power of intricate neural networks analogous to the human brain. Each unit within these networks, referred to as activations, mirrors the functionality of neurons in the human brain. Github
 
 An illustration of a deep neural network. A deep neural network consists of an input layer,  multiple hidden layers, and an output layer. Source: Kdnuggets.com
