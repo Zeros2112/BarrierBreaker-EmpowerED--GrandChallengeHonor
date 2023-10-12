@@ -3,6 +3,7 @@
 Foster community connections through Discord, facilitating meaningful interactions among disabled individuals.
 
 ## How to run 
+[Link demo code](https://drive.google.com/drive/u/0/folders/1SAhdXQeGf6mglOQVCIV2e2ipsKXpTYZ5)
 ### 1. Find the Bot Token 
 To regenerate your Discord bot token:
 * Go to the Discord Developer Portal.
