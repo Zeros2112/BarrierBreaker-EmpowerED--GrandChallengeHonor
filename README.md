@@ -1,4 +1,4 @@
-# GRAND CHALLENGE COMPETITION
+# Barrier Breaker EmpowerED @Grandchallengehonor
 
 # "Breaking Barriers: Empowering Employment Through Deep Learning Solutions for Disabilities"
 
